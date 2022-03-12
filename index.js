@@ -5,7 +5,7 @@ require('dotenv/config');
 
 const client = new Client({ config });
 
-client.login('OTExNTU3NDU1NDc2MDYwMTcx.YZjICQ.EBgcM0BYyncJTgkXRl4s8zsuo-0');
+client.login('YOUR-TOKEn');
 
 client.loadEvents();
 client.loadCommands();
